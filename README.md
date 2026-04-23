@@ -36,7 +36,7 @@
 ### Start the sprig and if done correctly then you should have your games listed!
 
 # Build Instructions
-
+I DO NOT RECOMMEND BUILDING IF YOU DONT KNOW WHAT YOU ARE DOING
 export PICO_SDK_PATH=~/pico-sdk
 cd build
 rm -rf *
