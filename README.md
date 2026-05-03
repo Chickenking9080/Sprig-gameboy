@@ -6,7 +6,7 @@ Simple Gameboy Emulator built for the [Hack Club Sprig](https://sprig.hackclub.c
 
 
 > [!WARNING]
-> I have overclocked the RP2040 to 286MHz so I have added this here as a warning just in case anyone needs to know.
+> I have overclocked the RP2040 to 250MHz so I have added this here as a warning just in case anyone needs to know.
 
 
 
@@ -16,7 +16,7 @@ Simple Gameboy Emulator built for the [Hack Club Sprig](https://sprig.hackclub.c
 * Controls
 * SD Card
 
-## In Progress
+## In Progress / Broken
 * Audio
 
 ## Setup Instructions
