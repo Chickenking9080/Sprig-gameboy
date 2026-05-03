@@ -638,12 +638,12 @@ int main(void)
 	static struct gb_s gb;
 	enum gb_init_error_e ret;
 
-	// Lower, safer overclock for stability testing
+	// Overclocked to 250mhz for stability and increased core voltage to attempt to prevent crashes
 	{
 		const unsigned vco  = 1500 * 1000 * 1000;
 		const unsigned div1 = 6, div2 = 1;
 
-		vreg_set_voltage(VREG_VOLTAGE_1_15);
+		vreg_set_voltage(VREG_VOLTAGE_1_20);
 		sleep_ms(2);
 		set_sys_clock_pll(vco, div1, div2);
 		sleep_ms(2);
