@@ -10,7 +10,7 @@
 #include <stdint.h>
 
 #ifndef AUDIO_SAMPLE_RATE
-# define AUDIO_SAMPLE_RATE	32768
+# define AUDIO_SAMPLE_RATE	24000
 #endif
 
 /* The audio output format is in platform native endian. */
