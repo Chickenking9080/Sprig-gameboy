@@ -16,8 +16,11 @@ Simple Gameboy Emulator built for the [Hack Club Sprig](https://sprig.hackclub.c
 * Controls
 * SD Card
 
-## In Progress / Broken
+## In Progress
 * Audio
+
+## Completely Broken
+* Saving
 
 ## Setup Instructions
 1. Download the latest released UF2 file
